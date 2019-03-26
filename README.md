@@ -8,3 +8,8 @@ my-awesome
 ### redux实践
 - https://github.com/rematch/rematch 
 - https://github.com/dvajs/dva
+
+### 其他工具 和 在线网址
+- https://github.com/pomber/git-history
+- https://regexper.com/ 正则
+- http://faisalman.github.io/ua-parser-js/ UA查询
