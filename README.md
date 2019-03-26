@@ -5,6 +5,10 @@ my-awesome
 - https://github.com/xmoyking/localForage-cn localStorage
 - https://github.com/nefe/number-precision 数字精度
 - https://github.com/semantic-release/semantic-release
+
+### redux实践
+- https://roadmanfong.github.io/react-cropper/ react-cropper裁图组件
+
 ### redux实践
 - https://github.com/rematch/rematch 
 - https://github.com/dvajs/dva
