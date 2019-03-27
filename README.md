@@ -6,7 +6,7 @@ my-awesome
 - https://github.com/nefe/number-precision 数字精度
 - https://github.com/semantic-release/semantic-release
 
-### redux实践
+### react 组件
 - https://roadmanfong.github.io/react-cropper/ react-cropper裁图组件
 
 ### redux实践
