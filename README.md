@@ -13,6 +13,7 @@ awesome fo
 - https://github.com/nefe/number-precision 数字精度
 - https://github.com/iamkun/dayjs 日期
 - https://github.com/semantic-release/semantic-release 自动发版
+- https://github.com/leizongmin/js-xss xss防范
 
 ### react && react component
 - https://github.com/bugsnag/bugsnag-js 错误监控
