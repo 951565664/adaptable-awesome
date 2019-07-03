@@ -1,12 +1,11 @@
 # my-awesome
-my-awesome
-
-- https://github.com/bugsnag/bugsnag-js 错误监控
+### utils
 - https://github.com/xmoyking/localForage-cn localStorage
 - https://github.com/nefe/number-precision 数字精度
 - https://github.com/semantic-release/semantic-release
 
-### react 组件
+### react && react component
+- https://github.com/bugsnag/bugsnag-js 错误监控
 - https://roadmanfong.github.io/react-cropper/ react-cropper裁图组件
 
 ### redux实践
