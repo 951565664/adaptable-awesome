@@ -1,8 +1,14 @@
 # my-awesome
+
+### node 
+
+- https://github.com/sindresorhus/execa
+- https://github.com/SBoudrias/Inquirer.js
+
 ### utils
 - https://github.com/xmoyking/localForage-cn localStorage
 - https://github.com/nefe/number-precision 数字精度
-- https://github.com/semantic-release/semantic-release
+- https://github.com/semantic-release/semantic-release 自动发版
 
 ### react && react component
 - https://github.com/bugsnag/bugsnag-js 错误监控
