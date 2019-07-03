@@ -1,5 +1,8 @@
 # my-awesome
 
+awesome fo
+
+
 ### node 
 
 - https://github.com/sindresorhus/execa
@@ -8,6 +11,7 @@
 ### utils
 - https://github.com/xmoyking/localForage-cn localStorage
 - https://github.com/nefe/number-precision 数字精度
+- https://github.com/iamkun/dayjs 日期
 - https://github.com/semantic-release/semantic-release 自动发版
 
 ### react && react component
@@ -19,6 +23,7 @@
 - https://github.com/dvajs/dva
 
 ### 其他工具 和 在线网址
-- https://github.com/pomber/git-history
+- https://github.com/pomber/git-history 提交历史查询
 - https://regexper.com/ 正则
 - http://faisalman.github.io/ua-parser-js/ UA查询
+- https://xclient.info/ mac app
