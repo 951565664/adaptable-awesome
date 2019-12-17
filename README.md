@@ -18,6 +18,7 @@ awesome fo
 ### react && react component
 - https://github.com/bugsnag/bugsnag-js 错误监控
 - https://roadmanfong.github.io/react-cropper/ react-cropper裁图组件
+- https://github.com/margox/braft-editor
 
 ### redux实践
 - https://github.com/rematch/rematch 
