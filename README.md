@@ -28,3 +28,6 @@ awesome fo
 - https://regexper.com/ 正则
 - http://faisalman.github.io/ua-parser-js/ UA查询
 - https://xclient.info/ mac app
+
+### 软件相关
+- https://www.adobezii.com/ adobezil
